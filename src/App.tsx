@@ -74,12 +74,12 @@ function App() {
                <div className="max-w-2xl w-full h-full absolute top-1/2 left-1/2 transform-center">
                   <img
                      className="w-full h-full object-cover brightness-50"
-                     src={"/images/img.jpg"}
+                     src={"/images/IMG_3084.webp"}
                      alt="img"
                   />
                </div>
 
-               <div className="w-[200px] mx-auto mt-auto z-10 zoom-in-fade">
+               <div className="w-[200px] mx-auto mt- z-10 zoom-in-fade">
                   <img src={"/images/a-s.png"} alt="img" />
                </div>
                <Counter />
@@ -178,7 +178,7 @@ function App() {
 
                   <img
                      className="w-full max-w-sm mx-auto mt-8 object-cover fade-in-up"
-                     src="/images/IMG_3106.webp"
+                     src="/images/img.jpg"
                      alt="Ресторан Шохсарой"
                   />
 
